@@ -1,3 +1,9 @@
-/* TODO: Style the product card container */
+/* Style the product card container */
+.card {
+  padding: 1em;
+}
 
-/* TODO: Add special styling for out-of-stock products */
+/* Add special styling for out-of-stock products */
+.outOfStockClass {
+  background-color: #ffcccc;
+}
